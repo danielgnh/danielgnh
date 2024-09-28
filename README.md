@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- good & quick != cheap
+- good & cheap != quick
+- quick & cheap != good
+
 <!--
 **danielgnh/danielgnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
