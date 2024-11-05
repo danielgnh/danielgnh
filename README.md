@@ -1,12 +1,8 @@
 ## Hi, my name is Daniel 👋
 
-
 - good & quick != cheap
 - good & cheap != quick
 - quick & cheap != good
-
-![IMG_1662](https://github.com/user-attachments/assets/8cfd5801-5548-4e79-a911-4133212ae737)
-
 
 <!--
 **danielgnh/danielgnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
